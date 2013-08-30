@@ -1,5 +1,4 @@
-A branch can be used when you want to do the following on code but want to preserve the integrity of the master or main code initially:
+A branch can be used when you want to preserve the integrity of the master code but want to try the following:
 1. New features
 2. Experiments
 3. Testing
-
