@@ -1,1 +1,0 @@
-git clone clones an existing repository into a newly created local directory. 
