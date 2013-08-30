@@ -1,0 +1,5 @@
+A branch can be used when you want to do the following on code but want to preserve the integrity of the master or main code initially:
+1. New features
+2. Experiments
+3. Testing
+
